@@ -1,7 +1,7 @@
 # Estudo das principais funções da linguagem Python
 *Estudo do curso de Python 3 do professor Diego Mariano na Udemy*
 
-Este repostitório contém os scripts desenvolvidos durante o curso de Python 3 do professor Diego Mariano. Eles abrangem desde os comandos básicos do Python até estruturas para manipulação de listas.
+Este repositório contém os scripts desenvolvidos durante o curso de Python 3 do professor Diego Mariano. Eles abrangem desde os comandos básicos do Python até estruturas para manipulação de listas.
 
 Neles você encontrará como:
 
